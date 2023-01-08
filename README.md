@@ -1,6 +1,6 @@
 # Olá! Eu sou Schayene Steinhorst Royer
 
-### Front-end Developer
+### Full-stack Developer
 
 <div style="display: inline_block"><br>
   <h3>Skills</h3>
